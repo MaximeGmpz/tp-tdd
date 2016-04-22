@@ -7,7 +7,7 @@
 * DELECAUT  MAÏTÉ :
 * DUQUESNE  ROMAIN  :
 * GILMANT LUCAS : https://github.com/Jigasai/tp-tdd.git
-* GUERMONPREZ MAXIME  :
+* GUERMONPREZ MAXIME  : https://github.com/MaximeGmpz/TDD-N2.git
 * LASSALLE  RÉMI  :
 * LEGAY NICOLAS : https://github.com/nlegay/RomanNumerals.git
 * LELONG  BENJAMIN  :
